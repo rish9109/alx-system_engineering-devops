@@ -1,2 +1,2 @@
-#1/bish/bash
+#!/bish/bash
 telnet towel.blinkenlights.nl
